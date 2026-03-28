@@ -1,7 +1,7 @@
 # lab-template
 Reference template repository for iPrana Lab projects (structure, README, AUTHORS, and guidelines)
 
-# `<Project Title>`
+# Project Title
 
 ## Overview
 Brief description of the project.
