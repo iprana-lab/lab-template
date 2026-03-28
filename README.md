@@ -40,8 +40,8 @@ Large datasets are not stored in this repository. Provide dataset links or scrip
 Describe outputs (figures, logs, etc.)
 
 ## Contributors
-- Student Name 1 (email)
-- Student Name 2 (email)
+- Student Name 1
+- Student Name 2
 
 Supervisor: Om Prakash, IIT Delhi
 
