@@ -7,22 +7,22 @@ https://github.com/iprana-lab
 This ensures long-term accessibility, reproducibility, and reuse of research outputs.
 
 ## 2. Repository Ownership
-- All repositories are owned by the lab.
 - Students are recognized as Contributors.
-- Code remains available for future research and reuse.
+- Code remains available at iprana-lab for future research and reuse.
 
 ## 3. Repository Naming
 Use clear, descriptive names (e.g., sensor-placement-gnn).
 Avoid names like project1, final-code, etc.
 
 ## 4. Repository Structure (reference)
+```bash
 README.md
 LICENSE
 AUTHORS
 src/
 data/
 results/
-
+```
 ## 5. Contribution Guidelines
 - Push code **regularly**.
 - Use meaningful commit messages.
