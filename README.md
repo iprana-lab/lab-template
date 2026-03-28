@@ -11,9 +11,11 @@ Brief description of the project.
 - Objective 2
 
 ## Repository Structure
-- src/        # source code
-- data/       # datasets (or links)
-- results/    # outputs
+```bash
+src/        # source code
+data/       # datasets (or links)
+results/    # outputs
+```
 
 ## Installation
 ```bash
