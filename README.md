@@ -19,6 +19,9 @@ Brief description of the project.
 ```bash
 git clone https://github.com/iprana-lab/<repo-name>.git
 cd <repo-name>
+```
+Install dependencies:
+```bash
 pip install -r requirements.txt
 ```
 
