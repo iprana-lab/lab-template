@@ -7,7 +7,9 @@ https://github.com/iprana-lab
 This ensures long-term accessibility, reproducibility, and reuse of research outputs.
 
 ## 2. Repository Ownership
-* *Preferred*: Work directly in the lab repository (`iprana-lab` organization). Students are recognized as **Contributors**.
+* *Preferred*: Work directly in the lab repository (`iprana-lab` organization). Students are explicitly recognized as **contributors** and authors in the repository.
+* All contributors will receive full credit through:
+- AUTHORS file, README, Git commit history
 * Students may maintain a personal repository, but the following are mandatory:
   - The supervisor must be added as a collaborator (GitHub username: `iprana-admin`)
   - A copy (fork or transfer) must exist in the `iprana-lab` organization.
