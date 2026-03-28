@@ -1,0 +1,12 @@
+# Ignore dataset files
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.tar.gz
+*.h5
+*.mat
+
+# But keep folder structure
+!.gitignore
+!README.md
