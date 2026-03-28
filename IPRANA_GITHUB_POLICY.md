@@ -7,7 +7,11 @@ https://github.com/iprana-lab
 This ensures long-term accessibility, reproducibility, and reuse of research outputs.
 
 ## 2. Repository Ownership
-- Students are recognized as Contributors.
+- Work directly in the lab repository (`iprana-lab` organization). Students are recognized as **Contributors**.
+- Students may maintain a personal repository, but the following are mandatory:
+-- The supervisor must be added as a collaborator (GitHub username: `iprana-admin`)
+-- A copy (fork or transfer) must exist in the iPrana Lab organization.
+-- Proper acknowledgment to iPrana Lab must be included in the repository.
 - Code remains available at iprana-lab for future research and reuse.
 
 ## 3. Repository Naming
