@@ -1,4 +1,4 @@
-# iPrana Lab — GitHub Usage Policy
+# iPrana Lab -- GitHub Usage Policy
 
 ## 1. Purpose
 All code developed under IPRANA Lab must be maintained in the official GitHub organization:
