@@ -11,17 +11,21 @@ Brief description of the project.
 - Objective 2
 
 ## Repository Structure
-src/        # source code
-data/       # datasets (or links)
-results/    # outputs
+- src/        # source code
+- data/       # datasets (or links)
+- results/    # outputs
 
 ## Installation
+```bash
 git clone https://github.com/iprana-lab/<repo-name>.git
 cd <repo-name>
 pip install -r requirements.txt
+```
 
 ## Usage
+```bash
 python src/main.py
+```
 
 ## Reproducibility
 Steps to reproduce results:
@@ -36,8 +40,8 @@ Large datasets are not stored in this repository. Provide dataset links or scrip
 Describe outputs (figures, logs, etc.)
 
 ## Contributors
-- Student Name 1 <email>
-- Student Name 2 <email>
+- Student Name 1 (email)
+- Student Name 2 (email)
 
 Supervisor: Om Prakash, IIT Delhi
 
@@ -49,4 +53,3 @@ This work was carried out at IPRANA Lab, IIT Delhi.
 
 ## License
 MIT License
-
