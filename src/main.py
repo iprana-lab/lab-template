@@ -1,4 +1,4 @@
-# This is dummy main file
+# This is a dummy main file
 
 def main():
     """
