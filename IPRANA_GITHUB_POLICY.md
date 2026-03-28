@@ -1,7 +1,7 @@
 # iPrana Lab - GitHub Usage Policy
 
 ## 1. Purpose
-All code developed under IPRANA Lab must be maintained in the official GitHub organization:
+All code developed under iPrana Lab must be maintained in the official GitHub organization:
 https://github.com/iprana-lab
 
 This ensures long-term accessibility, reproducibility, and reuse of research outputs.
@@ -10,9 +10,9 @@ This ensures long-term accessibility, reproducibility, and reuse of research out
 * Work directly in the lab repository (`iprana-lab` organization). Students are recognized as **Contributors**.
 * Students may maintain a personal repository, but the following are mandatory:
   - The supervisor must be added as a collaborator (GitHub username: `iprana-admin`)
-  - A copy (fork or transfer) must exist in the iPrana Lab organization.
+  - A copy (fork or transfer) must exist in the `iprana-lab` organization.
   - Proper acknowledgment to iPrana Lab must be included in the repository.
-* Code remains available at iprana-lab for future research and reuse.
+* Code remains available at `iprana-lab` for future research and reuse.
 
 ## 3. Repository Naming
 Use clear, descriptive names (e.g., sensor-placement-gnn).
