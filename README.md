@@ -12,8 +12,11 @@ Brief description of the project.
 
 ## Repository Structure
 ```bash
+README.md   # project details
+LICENSE     # MIT license
+AUTHORS     # contributors
 src/        # source code
-data/       # datasets (or links)
+data/       # datasets (or external links)
 results/    # outputs
 ```
 
