@@ -54,10 +54,10 @@ Describe outputs (figures, logs, etc.)
 Supervisor: Om Prakash, IIT Delhi
 
 ## Acknowledgment
-This work was carried out at iPrana Lab, IIT Delhi.
+This work was carried out at iPrana Lab, Department of Chemical Engineering, IIT Delhi.
 
 ## Citation
-<Add citation here>
+`Add citation here`
 
 ## License
 MIT License
